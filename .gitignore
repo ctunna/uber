@@ -6,3 +6,4 @@ pom.xml
 /checkouts
 /.env
 /target
+.lein-repl-history
