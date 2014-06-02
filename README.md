@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uber
 
 Source code for GP algorithm is in src/uber/core.clj
@@ -14,3 +15,9 @@ anticipated. If you want to run the program I can set it up on a
 server that you can SSH into. However, nothing more than what is shown in
 the final report is output.
 
+=======
+uber
+====
+
+Genetic programming algorithm for optimization problem
+>>>>>>> 1e34691c2b78a711abbc76c526433f3ebc8d6b3c
