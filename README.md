@@ -1,6 +1,6 @@
 # uber
 
-Genetic programming(GP) algorithm for optimization problem
+Genetic programming(GP) algorithm
 
 Source code for GP algorithm is in src/uber/core.clj
 
